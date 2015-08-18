@@ -1,0 +1,5 @@
+C:\Users\lbenavides\Desktop\BVT.RepositoryWebApi\bin\Debug\BVT.RepositoryWebApi.dll
+C:\Users\lbenavides\Desktop\BVT.RepositoryWebApi\bin\Debug\BVT.RepositoryWebApi.pdb
+C:\Users\lbenavides\Desktop\BVT.RepositoryWebApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lbenavides\Desktop\BVT.RepositoryWebApi\obj\Debug\BVT.RepositoryWebApi.dll
+C:\Users\lbenavides\Desktop\BVT.RepositoryWebApi\obj\Debug\BVT.RepositoryWebApi.pdb
